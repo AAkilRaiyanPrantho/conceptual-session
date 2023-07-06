@@ -7,3 +7,26 @@
   color: tomato;
   cursor: pointer;
 }
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    border: 2px dotted goldenrod;
+    height: 300px;
+    align-items: center;
+}
+
+.box{
+    background-color: blanchedalmond;
+    height: 80px;
+    padding: 10px;
+    width: 100px;
+}
+
+.box2{
+    background-color: antiquewhite;
+}
+
+.box3{
+    background-color: bisque;
+}
